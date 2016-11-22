@@ -1,0 +1,16 @@
+D:\Developpement\The8PtFM4.5\The8Pt\obj\Debug\The8Pt.exe
+D:\Developpement\The8PtFM4.5\The8Pt\obj\Debug\The8Pt.xml
+D:\Developpement\The8PtFM4.5\The8Pt\obj\Debug\The8Pt.pdb
+D:\Developpement\The8PtFM4.5\The8Pt\bin\Debug\The8Pt.exe.config
+D:\Developpement\The8PtFM4.5\The8Pt\bin\Debug\The8Pt.exe
+D:\Developpement\The8PtFM4.5\The8Pt\bin\Debug\The8Pt.pdb
+D:\Developpement\The8PtFM4.5\The8Pt\bin\Debug\The8Pt.xml
+D:\Developpement\The8PtFM4.5\The8Pt\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Developpement\The8PtFM4.5\The8Pt\obj\Debug\The8Pt.Form1.resources
+D:\Developpement\The8PtFM4.5\The8Pt\obj\Debug\The8Pt.Resources.resources
+D:\Developpement\The8PtFM4.5\The8Pt\obj\Debug\The8Pt.test.resources
+D:\Developpement\The8PtFM4.5\The8Pt\obj\Debug\The8Pt.vbproj.GenerateResource.Cache
+D:\Developpement\The8PtFM4.5\The8Pt\obj\Debug\The8Pt.vbprojResolveAssemblyReference.cache
+D:\Developpement\The8PtFM4.5\The8Pt\obj\Debug\The8Pt.test2.resources
+D:\Developpement\The8PtFM4.5\The8Pt\obj\Debug\The8Pt.Form2.resources
+D:\Developpement\The8PtFM4.5\The8Pt\obj\Debug\The8Pt.zoomer.resources
